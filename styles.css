@@ -19,6 +19,21 @@
     margin: 0 auto;
     margin-bottom: 2%;
 }
+.buttons a{
+    margin: 0 10px;
+}
 .abstract_section{
     font-size: medium;
 }
+.sharebuttons {
+    display: flex;
+    justify-content: right;
+    margin-bottom: -2%;
+}
+
+.sharebuttons a {
+    margin: 0 5px;
+    font-size: 24px;
+}
+
+

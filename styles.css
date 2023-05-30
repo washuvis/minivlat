@@ -1,0 +1,39 @@
+.mini-vis{
+    width: 50%;
+    /* height: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #7aa8b7;
+    border-radius: 6px;
+    outline: none;
+  }
+.buttons{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+.buttons a{
+    margin: 0 10px;
+}
+.abstract_section{
+    font-size: medium;
+}
+.sharebuttons {
+    display: flex;
+    justify-content: right;
+    margin-bottom: -2%;
+}
+
+.sharebuttons a {
+    margin: 0 5px;
+    font-size: 24px;
+}
+
+
